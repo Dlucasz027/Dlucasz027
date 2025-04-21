@@ -3,7 +3,7 @@
 
 <h2 align="center">🎓 Currently studying Information Systems at Uniter International University Center</h2>
 
-## **📌 About Me**  
+### **📌 About Me**  
 I'm a Back-End Developer with solid experience in Python, using libraries and frameworks like Django and Flask to develop efficient and scalable solutions.
 
 I worked in the networking field as a network analyst and support, building a strong technical foundation in computer networks, which complements my view as a developer.
@@ -13,7 +13,7 @@ I focus on developing innovative software, especially for the networking and int
 
 ---
 
-## **💡 Tools & Technologies**  
+### **💡 Tools & Technologies**  
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) 
