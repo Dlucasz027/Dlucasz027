@@ -5,9 +5,12 @@
 ---
 
 ### **📌 About Me**  
-Hello! I am a technology enthusiast and an Information Systems student, passionate about development, continuous learning, and creating smart solutions.  
-I am focused on mastering **JavaScript**, **Python**, **Django**, and **Flask**, while also expanding my knowledge of **Linux**, **Windows**, **Git**, **MySQL**, and **Excel**.  
-I'm looking for opportunities to apply my skills and further my growth in the tech industry.
+Back-End Developer with solid experience in Python, using libraries and frameworks such as Django and Flask to develop efficient and scalable solutions.
+
+I have worked in the networking field as a network analyst and support, building a strong technical foundation in computer networks, which complements my vision as a developer.
+Currently, working as a developer at OLT Cloud, I am able to work in tandem with development and networking, providing systems for companies worldwide.
+
+I focus on developing innovative software, particularly for the networking and internet service provider market, merging technology and automation to optimize processes and deliver real value.
 
 ---
 
