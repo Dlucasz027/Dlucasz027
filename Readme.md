@@ -1,5 +1,5 @@
-<h1 align="center">Software Developer</h1>
-<h2 align="center">Matheus de Lucas A.</h2>
+<h1 align="center">Matheus de Lucas A.</h1>
+<h2 align="center">Software Developer</h2>
 
 ## 🎓 Currently studying Information Systems at [Uninter](https://www.unicesumar.edu.br/)
 ---
