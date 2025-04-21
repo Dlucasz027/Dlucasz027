@@ -1,7 +1,7 @@
 <h1 align="center">Matheus de Lucas A.</h1>
 <h2 align="center">Software Developer</h2>
 
-<h3 align="center">🎓 Currently studying Information Systems at [Uninter](https://www.uninter.com/)</h3>
+<h2 align="center">🎓 Currently studying Information Systems at Uniter International University Center</h2>
 ---
 
 ### **📌 About Me**  
