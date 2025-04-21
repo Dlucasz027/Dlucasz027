@@ -1,7 +1,7 @@
 <h1 align="center">Software Developer</h1>
 <h2 align="center">Matheus de Lucas A.</h2>
 
-### 🎓 Currently studying Information Systems at [Uninter](https://www.unicesumar.edu.br/)
+## 🎓 Currently studying Information Systems at [Uninter](https://www.unicesumar.edu.br/)
 ---
 
 ### **📌 About Me**  
