@@ -26,7 +26,7 @@ I focus on developing innovative software, especially for the networking and int
 ---
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dlucasz027&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dlucasz027&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 ---
