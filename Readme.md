@@ -1,19 +1,18 @@
 <h1 align="center">Matheus de Lucas A.</h1>
 <h2 align="center">Desenvolvedor de Software | Software Developer</h2>
-<h2 align="center">Analista de Redes | Network Analyst</h2>
 
 <h2 align="center">🎓 Sistemas de Informação | Information Systems | Uniter International University Center</h2>
 
 ### **📌 Sobre mim | About Me**  
 
-🇧🇷
+**🇧🇷**
 Sou desenvolvedor Back-End com sólida experiência em redes de computadores e atualmente atuo como Desenvolvedor Trainee na OLT Cloud, empresa de software para gestão de redes no mercado ISP. Trabalho com Python, Django, JavaScript e React, desenvolvendo soluções inovadoras para otimização de processos e automação de provedores de internet.
-
 Minha experiência prévia como Analista de Redes me proporcionou uma base técnica sólida em infraestrutura, servidores Linux e telecomunicações, o que amplia minha visão e agrega valor aos projetos de desenvolvimento que realizo.
 
-🇺🇸
-I am a Back-End Developer with solid experience in computer networks and currently working as a Trainee Developer at OLT Cloud, a software company focused on network management solutions for the ISP market. I work with Python, Django, JavaScript, and React, developing innovative solutions to optimize processes and automate internet service providers.
+---
 
+**🇺🇸**
+I am a Back-End Developer with solid experience in computer networks and currently working as a Trainee Developer at OLT Cloud, a software company focused on network management solutions for the ISP market. I work with Python, Django, JavaScript, and React, developing innovative solutions to optimize processes and automate internet service providers.
 My previous experience as a Network Analyst provided me with a strong technical foundation in infrastructure, Linux servers, and telecommunications, which broadens my perspective and adds value to the development projects I carry out.
 
 ---
@@ -39,5 +38,5 @@ My previous experience as a Network Analyst provided me with a strong technical 
 
 ---
 
-### 📫 **Linkedin**  
+### 📫 **Me encontre no LinkedIn | Find me on LinkedIn**  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/delucas027/)
