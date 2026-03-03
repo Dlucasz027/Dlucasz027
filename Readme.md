@@ -1,6 +1,8 @@
 <h1 align="center">Matheus de Lucas A.</h1>
 <h2 align="center">Desenvolvedor de Software | Software Developer</h2>
-[![wakatime](https://wakatime.com/badge/user/65682be3-d6b0-42a4-9207-9376420f8415.svg)](https://wakatime.com/@65682be3-d6b0-42a4-9207-9376420f8415)
+
+[![wakatime](https://wakatime.com/badge/user/65682be3-d6b0-42a4-9207-9376420f8415.svg?style=flat-square)](https://wakatime.com/@65682be3-d6b0-42a4-9207-9376420f8415)
+
 <h2 align="center">🎓 Sistemas de Informação | Information Systems | Uniter International University Center</h2>
 
 ---
