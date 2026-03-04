@@ -1,8 +1,6 @@
 <h1 align="center">Matheus de Lucas A.</h1>
 <h2 align="center">Desenvolvedor de Software | Software Developer</h2>
 
-[![wakatime](https://wakatime.com/badge/user/65682be3-d6b0-42a4-9207-9376420f8415.svg?style=flat-square)](https://wakatime.com/@65682be3-d6b0-42a4-9207-9376420f8415)
-
 <h2 align="center">🎓 Sistemas de Informação | Information Systems | Uniter International University Center</h2>
 
 ---
@@ -14,7 +12,7 @@
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-FFD43B?style=for-the-badge&logo=javascript&logoColor=black)  ![Python](https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=FFD43B) 
 
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)  ![Badge REST API](https://img.shields.io/badge/REST_API-7954B2?style=for-the-badge&logo=json&logoColor=yellow)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)  ![Badge REST API](https://img.shields.io/badge/REST_API-7954B2?style=for-the-badge&logo=json&logoColor=yellow)  ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) 
 
